@@ -7,7 +7,7 @@
     "start": "node app.js"
   },
   "engines": {
-    "node": "^14.8.0"
+    "node": "^18.9.0"
   },
   "dependencies": {
     "express": "^4.17.1",
